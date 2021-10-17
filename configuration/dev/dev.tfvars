@@ -1,2 +1,2 @@
 resource_group_name = ""
-location = "westeurope"
+location            = "westeurope"
